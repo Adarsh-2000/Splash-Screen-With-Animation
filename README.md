@@ -1,2 +1,2 @@
 # Splash-Screen-With-Animation
-![](app/src/main/res/drawable/Screenshot(2).png)
+![](https://github.com/Adarsh-2000/Splash-Screen-With-Animation/blob/master/app/src/main/res/drawable/Screenshot%20(2).png)
